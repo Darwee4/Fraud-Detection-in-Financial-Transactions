@@ -24,7 +24,7 @@ This repository contains an implementation of a fraud detection system for credi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-detection.git
+   git clone https://github.com/Darwee4/fraud-detection.git
    cd fraud-detection
    ```
 
